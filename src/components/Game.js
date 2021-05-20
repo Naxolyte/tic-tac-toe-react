@@ -21,8 +21,6 @@ const Game = () => {
     setXisNext(!xIsNext);
   };
 
-  const jumpTo = () => {};
-
   const renderMoves = () => {
     return (
       <button
